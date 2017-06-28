@@ -1,3 +1,8 @@
 .jumbotron {
-	background-color: gray;
+	background-color:gray;
+	opacity: 0.7;
+}
+
+body {
+	background-image: url(https://cdn.pixabay.com/photo/2016/11/12/23/34/friend-1820040_1280.jpg)
 }
