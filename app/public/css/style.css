@@ -1,0 +1,32 @@
+.jumbotron {
+	background-color:gray;
+	background: rgba(0,0,0,.5);
+	color: white;
+}
+
+body {
+	background-image: url("friend-1820040_1920.jpg");
+	background-size: 1300px 850px; 
+	
+
+}
+
+.container {
+	background: gray;
+	background: rgba(0,0,0,.5);
+	margin-top: 50px;
+	margin-bottom: 10px;
+	color: white; 
+}
+
+ main {
+ 	flex: 1 0 auto;
+ }
+
+ main h1 {
+ 	font-weight: bold;
+ }
+
+  main h2 {
+ 	font-weight: 300;
+ }
